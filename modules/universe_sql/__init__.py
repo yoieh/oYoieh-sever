@@ -1,6 +1,8 @@
-"""
-init universe_sql
-"""
+'''
+Created on 29 dec 2017
+
+@author: Yoieh
+'''
 import sys
 
 if sys.version_info[0] <= 2:
